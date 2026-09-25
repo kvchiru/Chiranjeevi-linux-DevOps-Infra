@@ -1,0 +1,7 @@
+jenkins-cicd-demo/
+│
+├── Jenkinsfile
+├── Dockerfile
+├── app/
+├── tests/
+└── README.md
