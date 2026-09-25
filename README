@@ -1,0 +1,17 @@
+linux-server-automation/
+│
+├── README.md
+├── ansible/
+│   ├── inventory
+│   ├── install_packages.yml
+│   ├── user_management.yml
+│   ├── patch_servers.yml
+│   └── hardening.yml
+│
+├── scripts/
+│   ├── disk_check.sh
+│   ├── service_check.sh
+│   └── log_cleanup.sh
+│
+└── docs/
+    └── troubleshooting.md
