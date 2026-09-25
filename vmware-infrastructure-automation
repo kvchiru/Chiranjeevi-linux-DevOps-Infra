@@ -1,0 +1,17 @@
+VMware Infrastructure Automation
+
+Technologies:
+- VMware vSphere
+- vCenter
+- PowerCLI
+- PowerShell
+- Ansible
+
+Topics:
+- VM provisioning
+- VM inventory
+- VM resource management
+- Snapshot reporting
+- VM health checks
+- Capacity reporting
+- Automation
