@@ -2,3 +2,12 @@ openshift/
 ├── deployment.yaml
 ├── service.yaml
 └── route.yaml
+
+Document troubleshooting examples:
+CrashLoopBackOff
+ImagePullBackOff
+Pod Pending
+Service connectivity
+DNS troubleshooting
+CPU/Memory limits
+Node troubleshooting
