@@ -1,0 +1,4 @@
+openshift/
+├── deployment.yaml
+├── service.yaml
+└── route.yaml
